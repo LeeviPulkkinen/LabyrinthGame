@@ -1,3 +1,7 @@
+A game where a rat 🐁 is moved trough a multilayer maze, looking for cheese 🧀. 
+
+For more information refer to the Project document pdf.
+
 Sources: 
 
 https://opengameart.org/content/wall-texture-walltexturepng
