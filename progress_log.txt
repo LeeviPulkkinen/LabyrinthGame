@@ -1,0 +1,55 @@
+#checkpoint 15.3
+
+The program has the following classes:
+
+Vector3D:
+Handles the coordinate system used in the project, contains a method used for addition
+
+Cell:
+Models a single cell in the maze, contains methods for
+getting available directions and changing them
+
+Layer:
+A layer that consists of cells, is initialized with cells automatically
+
+GUI:
+creates a window for the game and is able to draw pictures.
+
+Game:
+Handles the game, very early stage at the moment
+
+Rat:
+Models the rat
+
+Object Constants:
+Contains constants needed in the project
+
+All the implemented methods seem to be working as intended and no major
+issues have been faced.
+
+Amount of time used for this project is ~10hours and the project is on schedule.
+
+
+#checkpoint 30.3
+
+Game and Rat classes have been implemented and extended. The game class creates the maze layers and contains many
+helper methods for interacting with the maze and it's parts. 
+
+The Rat can now be drawn to the screen and moved using user input. 
+
+GUI class can now change the layer that is drawn to the screen. 
+
+All new methods seem to be working like they should. 
+
+One challenge with the project is the fact that also the layer is completely redrawn when the rat moves, and this causes the program to work slower when the size of the maze is increased.
+
+Amount of time used for this project is ~25hours and the project is on schedule.
+
+#checkpoint 13.4
+
+Since the last checkpoint the following features have been implemented:
+maze creation and solving algorithms, start menu, end menu and the ability to save maze to a file.
+
+The performance of the app is now good for mazes of all sizes and the project is mostly done. 
+
+The estimated time used for this project is 30hours and the project is ahead of scedule. 
